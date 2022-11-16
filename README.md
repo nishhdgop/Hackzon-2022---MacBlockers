@@ -14,4 +14,10 @@ Steps of execution of the project:
 6. Close the application.
 
 Screen Shots of the website:
+<img src="./assets/1_overall.png" width="500" align="middle">
+<img src="./assets/1_overall.png" width="500" align="middle">
+<img src="./assets/1_overall.png" width="500" align="middle">
+<img src="./assets/1_overall.png" width="500" align="middle">
+<img src="./assets/1_overall.png" width="500" align="middle">
+<img src="./assets/1_overall.png" width="500" align="middle">
 
