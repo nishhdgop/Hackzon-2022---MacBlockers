@@ -1,1 +1,1 @@
-# EazyPay-Bank-WebApp
+# Bankify
